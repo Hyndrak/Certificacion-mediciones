@@ -6,9 +6,7 @@
   
 ## 📌 Descripción general 
 
-Este repositorio tiene información sobre un laboratorio que prueba redes UTP.   
-
-Se hicieron pruebas en varios puntos de red con herramientas especiales para verificar su funcionamiento y cumplimiento de estándares. 
+Este repositorio contiene el registro y análisis de un laboratorio de pruebas sobre infraestructura de red UTP. Se realizaron mediciones en distintos puntos de red utilizando el certificador Net Chaser TNC950, con el objetivo de verificar el correcto funcionamiento del cableado y su cumplimiento con los estándares de instalación. Las pruebas incluyeron wiremap, longitud, SNR, detección de puertos activos y medición de PoE.
 
  
 
