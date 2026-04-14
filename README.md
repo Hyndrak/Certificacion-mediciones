@@ -165,14 +165,13 @@ Indicadores:
  
 
 ## ℹ️ Acerca de 
-
 <p align="justify">
 Información y fotos de certificación realizadas en clases.<br><br>
-<strong>Trabajo realizado por:</strong>
+<strong>Trabajo realizado por:</strong><br>
 Diego S. Rodriguez<br>
 Milovan Villalobos<br>
 Juan Pablo Barraza<br><br>
 <strong>Carrera:</strong> Ingeniería en Telecomunicaciones — 2° año<br>
-<strong>Asignatura:</strong> Certificación de Cableado Estructurado
+<strong>Asignatura:</strong> Certificación de Cableado Estructurado<br>
 <strong>Institución:</strong> INACAP, La Serena.
 </p>
