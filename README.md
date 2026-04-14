@@ -173,7 +173,7 @@ Información y fotos de certificación realizadas en clases.<br><br>
 <strong>Docente:</strong> Daniel Ruz<br>
 <strong>Fecha:</strong> 16/04/2026<br><br>
 <strong>Trabajo realizado por:</strong><br>
-Diego S. Rodriguez<br>
+<strong>Diego S. Rodriguez</strong><br>
 Milovan Villalobos<br>
 Juan Pablo Barraza
 </p>
