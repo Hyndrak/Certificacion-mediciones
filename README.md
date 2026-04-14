@@ -174,4 +174,5 @@ Milovan Villalobos<br>
 Juan Pablo Barraza<br><br>
 <strong>Carrera:</strong> Ingeniería en Telecomunicaciones — 2° año<br>
 <strong>Asignatura:</strong> Certificación de Cableado Estructurado
+<strong>Institución:</strong> INACAP, La Serena.
 </p>
