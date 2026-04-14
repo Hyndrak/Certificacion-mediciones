@@ -1,4 +1,4 @@
-# 🧰 Equipo Utilizado: Certificadora de Red Net Chaser TNC950 
+# 🧰 Equipo Utilizado: Certificadora Net Chaser TNC950 
 
  
 
