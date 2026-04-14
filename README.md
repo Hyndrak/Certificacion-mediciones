@@ -165,6 +165,6 @@ Indicadores:
 
  
 
-## ℹ️ About 
+## ℹ️ Acerca de 
 
 Información y fotos de certificación realizadas en clases. 
