@@ -7,18 +7,7 @@
 ## 📋 Tabla de Resultados 
 
  
-
-| Punto | Categoría | Resultado | IP | Velocidad | 
-
-|------|----------|----------|----|-----------| 
-
-| 12   | Cat 5e   | FAIL     | N/A | N/A | 
-
-| 11   | Cat 6    | PASS     | 192.168.x.x | 1000 Mbps | 
-
-| 9    | Cat 6    | FAIL     | N/A | N/A | 
-
-| 7    | Cat 6    | PASS     | 192.168.x.x | 1000 Mbps | 
+![Tabla de Pruebas de Certificación](https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/121056018a68879c4f8f8ec8c36f0222db17fc50/Tabla%20de%20Pruebas%20de%20Certificaci%C3%B3n.png)
 
  
 
