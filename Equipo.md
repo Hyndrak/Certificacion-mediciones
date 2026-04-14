@@ -41,6 +41,7 @@ Parámetros:
 - Flow Control: Puede pausar la transmisión para evitar pérdida de paquetes
 - SNR pares 1 y 2: ~29 dB, buena relación señal/ruido — pares 3 y 4 en 0 porque 100Base-TX solo usa 2 pares
 
+--- 
 
 ### 🌐 Prueba de DHCP/Ping 
 
