@@ -11,7 +11,7 @@ Se hicieron pruebas en varios puntos de red con herramientas especiales para ver
 
  
 
-## 🎯 Objetivos 
+🎯 Objetivos 
 
 - Ejecutar pruebas de certificación en puntos de red físicos. 
 
