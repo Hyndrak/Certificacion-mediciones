@@ -122,8 +122,7 @@ Esto puede limitar el rendimiento del laboratorio.
 
  
 
-![Switch](switch.png) 
-
+![Panel Switch](https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/8f7b23a473220c229b9be615bbe6b8da6705ed7f/Panel%20Switch.png)
  
 
 Indicadores: 
