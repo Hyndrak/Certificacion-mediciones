@@ -26,10 +26,10 @@ Permite comprobar si el cable puede suministrar energía a dispositivos (Power o
  Parámetros:
 
 - **Mode A:** La energía viaja por los pares de datos (pines 1-2 y 3-6), el método más común
-Estándar 802.3af: Versión básica de PoE, suficiente para APs, cámaras y teléfonos IP
-Potencia: 12.95W entregados — dentro del límite de 802.3af (máx 15.4W)
-50.1V sin carga: Voltaje en reposo, sin dispositivo consumiendo
-48.5V con carga: Voltaje real bajo demanda — la caída es mínima, indica buena fuente PoE
+- **Estándar 802.3af:** Versión básica de PoE, suficiente para APs, cámaras y teléfonos IP
+- **Potencia:** 12.95W entregados — dentro del límite de 802.3af (máx 15.4W)
+- **50.1V sin carga:** Voltaje en reposo, sin dispositivo consumiendo
+- **48.5V con carga:** Voltaje real bajo demanda — la caída es mínima, indica buena fuente PoE
 
 --- 
 
