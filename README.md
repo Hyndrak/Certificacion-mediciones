@@ -83,10 +83,6 @@ Se muestran los puntos analizados:
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/77474a5ff9047ad5eee5c8b6b7a867b72f99093b/Fotos%20de%20los%20puntos%20certificados%203.png" width="500">
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/f9c855d260033168a1c7ecce49f3c60d1ef95ffb/Fotos%20de%20los%20puntos%20certificados%204.png" width="500">
 </div>
 
