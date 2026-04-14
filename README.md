@@ -96,14 +96,11 @@ Datos obtenidos con tester:
 
  
 
-- **Toma N°12**: ❌ Par azul (pines 4–5) ruptura o corte a ~17.5 m
-- Posible Falla por ponchado defectuoso o deterioro.
+- **Toma N°12**: ❌ Par azul (pines 4–5) ruptura o corte a ~17.5 m - Posible Falla por ponchado defectuoso o deterioro.
 
 - **Toma N°11**: ✅ Cable aprobado
 
-- **Toma N°9**: Wiremap con pares cruzados → mal orden de ponchado en el conector
-- Longitudes consistentes entre 19.7 y 20.6 m → el cable físicamente está bien, no hay cortes
-- ❌ Falla por error de ponchado (pines invertidos, probablemente confusión T568A vs T568B o simplemente mal orden de los pares)
+- **Toma N°9**:❌ Falla por pares cruzados en el conector (error de ponchado). El cable físicamente está en buen estado, sin cortes ni abiertos — las longitudes son consistentes entre 19.7 y 20.6 m. Probable confusión entre estándar T568A y T568B.
 
  
 
