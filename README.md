@@ -166,7 +166,6 @@ Indicadores:
 
 ## ℹ️ Acerca de 
 
-Información y fotos de certificación realizadas en clases.
-Trabajo realizado por:
-
-**Diego S. Rodriguez, Milovan Villalobos, Juan Pablo Barraza.**
+<p align="justify">
+Información y fotos de certificación realizadas en clases. Trabajo realizado por: Diego S. Rodriguez, Milovan Villalobos, Juan Pablo Barraza — Ingeniería en Telecomunicaciones 2° año, asignatura <strong>Certificación de Cableado Estructurado</strong>.
+</p>
