@@ -1,9 +1,6 @@
 # Certificación de Cableado Estructurado 
 
- 
-
-[![image alt](ruta/de/la/imagen.png) 
-](https://github.com/TuAmigoPapilla/Imagenes/blob/6fe59a19ce5dced8ef2c19d621ac215732c0c225/Portada.png)
+![Portada](https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/6fe59a19ce5dced8ef2c19d621ac215732c0c225/Portada.png)
  
 
 ## 📌 Descripción general 
