@@ -15,11 +15,10 @@
 
 ### 🔴 Punto 12 
 
-Se detectó una falla en el mapa de cableado, ya que los pines **1, 5 y 8 no presentan continuidad**.   
+Se detectó falla en el mapa de cableado: el par azul (pines 4–5) con circuito abierto a aproximadamente 17.5 m. 
+Ambos problemas corresponden a un ponchado defectuoso en el conector RJ45.
 
-Esto impide la correcta transmisión de datos. 
 
- 
 
 --- 
 
