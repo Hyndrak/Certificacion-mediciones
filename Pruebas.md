@@ -1,8 +1,5 @@
 # 📊 Tabla de Pruebas de Certificación 
 
- 
-
-![Tabla de Pruebas de Certificación] 
 
 ## 📋 Tabla de Resultados 
 
