@@ -2,8 +2,8 @@
 
  
 
-![image alt](ruta/de/la/imagen.png) 
-
+[![image alt](ruta/de/la/imagen.png) 
+](https://github.com/TuAmigoPapilla/Imagenes/blob/6fe59a19ce5dced8ef2c19d621ac215732c0c225/Portada.png)
  
 
 ## 📌 Descripción general 
