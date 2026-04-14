@@ -108,7 +108,7 @@ Datos obtenidos con tester:
 
  
 
-![Patch Panel](patchpanel.png) 
+![Patch Panel](https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/f9c855d260033168a1c7ecce49f3c60d1ef95ffb/Fotos%20de%20los%20patch%20panel.jpeg)
 
  
 
