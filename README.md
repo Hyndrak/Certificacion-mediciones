@@ -6,7 +6,9 @@
   
 ## 📌 Descripción general 
 
-Este repositorio contiene el registro y análisis de un laboratorio de pruebas sobre infraestructura de red UTP. Se realizaron mediciones en distintos puntos de red utilizando el certificador **Net Chaser TNC950**, con el objetivo de verificar el correcto funcionamiento del cableado y su cumplimiento con los estándares de instalación. Las pruebas incluyeron wiremap, longitud, SNR, detección de puertos activos y medición de PoE.
+<p align="justify">
+Este repositorio contiene el registro y análisis de un laboratorio de pruebas sobre infraestructura de red UTP. Se realizaron mediciones en distintos puntos de red utilizando el certificador <strong>Net Chaser TNC950</strong>, con el objetivo de verificar el correcto funcionamiento del cableado y su cumplimiento con los estándares de instalación. Las pruebas incluyeron wiremap, longitud, SNR, detección de puertos activos y medición de PoE.
+</p>
  
 
 ## 🎯 Objetivos 
