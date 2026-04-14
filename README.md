@@ -170,10 +170,10 @@ Información y fotos de certificación realizadas en clases.<br><br>
 <strong>Institución:</strong> INACAP, La Serena<br>
 <strong>Carrera:</strong> Ingeniería en Telecomunicaciones — 2° año<br>
 <strong>Asignatura:</strong> Certificación de Cableado Estructurado<br>
-<strong>Docente:</strong> Daniela Ruz<br>
+<strong>Docente:</strong> Daniel Ruz<br>
 <strong>Fecha:</strong> 16/04/2026<br><br>
 <strong>Trabajo realizado por:</strong><br>
-Diego S. Rodriguez<br>
+**Diego S. Rodriguez**<br>
 Milovan Villalobos<br>
 Juan Pablo Barraza
 </p>
