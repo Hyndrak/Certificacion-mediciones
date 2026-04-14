@@ -1,8 +1,8 @@
 # Certificación de Cableado Estructurado 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/6fe59a19ce5dced8ef2c19d621ac215732c0c225/Portada.png" width="600">
-</p>
+  <img src="https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/6fe59a19ce5dced8ef2c19d621ac215732c0c225/Portada.png" width="600"></p>
+  
 ## 📌 Descripción general 
 
 Este repositorio tiene información sobre un laboratorio que prueba redes UTP.   
