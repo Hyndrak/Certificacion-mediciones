@@ -90,14 +90,9 @@ El punto funciona correctamente, cumpliendo con los estándares.
 
   - Patch panel: **Cat 5e** 
 
-  - Cableado interno: **Cat 6**   
+  - Cableado interno (algiunos): **Cat 6** 
+→ El patch panel actúa como cuello de botella, limitando la red a Cat5e (100 MHz, 1 Gbps) aunque parte del cableado soporte más.   
 
-  → Puede limitar el rendimiento de la red. 
-
- 
-
-- Fallas físicas como **pares cruzados** afectan directamente la certificación. 
-
- 
+ Fallas físicas como pares cruzados afectan directamente la certificación del cableado.
 
 - La correcta configuración y uso de herramientas de certificación es clave para el buen funcionamiento de la red. 
