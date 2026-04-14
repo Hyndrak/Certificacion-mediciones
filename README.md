@@ -168,7 +168,7 @@ Indicadores:
 
 <p align="justify">
 Información y fotos de certificación realizadas en clases.<br><br>
-<strong>Trabajo realizado por:</strong><br>
+<strong>Trabajo realizado por:</strong>
 Diego S. Rodriguez<br>
 Milovan Villalobos<br>
 Juan Pablo Barraza<br><br>
