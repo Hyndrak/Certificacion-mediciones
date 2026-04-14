@@ -26,8 +26,20 @@ Permite comprobar si el cable puede suministrar energía a dispositivos (Power o
 
 --- 
 
- ## 🔎 Port Discovery
+ ### 🔎 Port Discovery
+
+La certificadora detectó un puerto activo en el switch y negoció sus capacidades automáticamente.
+ 
 ![Port Discovery](https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/31e1d5db30c3dfa69ce0901ffe3f96ebadc559f0/Port%20Discovery.jpg)
+
+Parámetros:
+
+- PoE: Sin alimentación eléctrica por el cable
+- MDI/MDI-X automático: No importa si el cable es directo o cruzado, el puerto se adapta solo
+- Autonegociación: El switch y el tester acuerdan velocidad/dúplex automáticamente
+- 100Base-TX / Full Duplex: Enlace a 100 Mbps, enviando y recibiendo al mismo tiempo
+- Flow Control: Puede pausar la transmisión para evitar pérdida de paquetes
+- SNR pares 1 y 2: ~29 dB, buena relación señal/ruido — pares 3 y 4 en 0 porque 100Base-TX solo usa 2 pares
 
 
 ### 🌐 Prueba de DHCP/Ping 
