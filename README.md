@@ -102,8 +102,8 @@ Datos obtenidos con tester:
 - **Toma N°11**: ✅ Cable aprobado
 
 - **Toma N°9**: Wiremap con pares cruzados → mal orden de ponchado en el conector
-Longitudes consistentes entre 19.7 y 20.6 m → el cable físicamente está bien, no hay cortes
-❌ Falla por error de ponchado (pines invertidos, probablemente confusión T568A vs T568B o simplemente mal orden de los pares)
+- Longitudes consistentes entre 19.7 y 20.6 m → el cable físicamente está bien, no hay cortes
+- ❌ Falla por error de ponchado (pines invertidos, probablemente confusión T568A vs T568B o simplemente mal orden de los pares)
 
  
 
