@@ -74,13 +74,21 @@ Se muestran los puntos analizados:
 
  
 
-![Punto 1](punto1.png) 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/f94f84669410cf2efa1f6a0c3fd45318d2644029/Fotos%20de%20los%20puntos%20certificados%201.png" width="500">
+</div>
 
-![Punto 2](punto2.png) 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/bcb26d8688210684c886e86fdc66f0b8dd9b4006/Fotos%20de%20los%20puntos%20certificados%202.png" width="500">
+</div>
 
-![Punto 3](punto3.png) 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/77474a5ff9047ad5eee5c8b6b7a867b72f99093b/Fotos%20de%20los%20puntos%20certificados%203.png" width="500">
+</div>
 
-![Punto 4](punto4.png) 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/f9c855d260033168a1c7ecce49f3c60d1ef95ffb/Fotos%20de%20los%20puntos%20certificados%204.png" width="500">
+</div>
 
  
 
