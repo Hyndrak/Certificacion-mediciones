@@ -23,10 +23,6 @@ Ejecuta automáticamente todas las pruebas necesarias según la categoría del c
 
 Permite comprobar si el cable puede suministrar energía a dispositivos (Power over Ethernet) y si el voltaje es adecuado. 
 
- 
-
-## 🔎 Port Discovery
-![Port Discovery](https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/31e1d5db30c3dfa69ce0901ffe3f96ebadc559f0/Port%20Discovery.jpg)
 
 ## ⚡ PoE Test
 ![PoE Test](https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/31e1d5db30c3dfa69ce0901ffe3f96ebadc559f0/PoE%20test.jpg)
@@ -34,7 +30,9 @@ Permite comprobar si el cable puede suministrar energía a dispositivos (Power o
 
 --- 
 
- 
+ ## 🔎 Port Discovery
+![Port Discovery](https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/31e1d5db30c3dfa69ce0901ffe3f96ebadc559f0/Port%20Discovery.jpg)
+
 
 ### 🌐 Prueba de DHCP/Ping 
 
