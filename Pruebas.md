@@ -1,8 +1,5 @@
 # 📊 Tabla de Pruebas de Certificación 
 
-
-## 📋 Tabla de Resultados 
-
  
 ![Tabla de Pruebas de Certificación](https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/121056018a68879c4f8f8ec8c36f0222db17fc50/Tabla%20de%20Pruebas%20de%20Certificaci%C3%B3n.png)
 
