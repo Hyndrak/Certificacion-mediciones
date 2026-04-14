@@ -54,11 +54,17 @@ Se verificó:
 
 Estas fotos demuestran el buen estado de los cables: 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/b1f3cf92b278b6242ff9c0a08ca141c8f8d7f23b/cables%20usados%20para%20la%20certificadora%201.png" width="250">
-  <img src="https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/b1f3cf92b278b6242ff9c0a08ca141c8f8d7f23b/cables%20usados%20para%20la%20certificadora%202.png" width="250">
-  <img src="https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/b1f3cf92b278b6242ff9c0a08ca141c8f8d7f23b/cables%20usados%20para%20la%20certificadora%203.png" width="250">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/b1f3cf92b278b6242ff9c0a08ca141c8f8d7f23b/cables%20usados%20para%20la%20certificadora%201.png" width="500">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/b1f3cf92b278b6242ff9c0a08ca141c8f8d7f23b/cables%20usados%20para%20la%20certificadora%202.png" width="500">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/b1f3cf92b278b6242ff9c0a08ca141c8f8d7f23b/cables%20usados%20para%20la%20certificadora%203.png" width="500">
+</div>
 
  
 
