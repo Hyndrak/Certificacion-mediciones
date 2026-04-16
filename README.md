@@ -104,7 +104,8 @@ Datos obtenidos con tester:
 
 - **Toma N°9**:❌ Falla por pares cruzados en el conector (error de ponchado). El cable físicamente está en buen estado, sin cortes ni abiertos — las longitudes son consistentes entre 19.7 y 20.6 m. Probable confusión entre estándar T568A y T568B.
 
- 
+ - **Toma N°7**: ✅ Cable aprobado
+
 
 ## 🧩 Patch Panel 
 
