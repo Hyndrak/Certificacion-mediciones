@@ -19,7 +19,10 @@ Este repositorio contiene el registro y análisis de un laboratorio de pruebas s
 
 - Documentar resultados usando Git y Markdown. 
 
- 
+
+## 🔌 Normativas TIA/EIA-568
+
+- La norma TIA/EIA-568 define estándares para el cableado estructurado, incluyendo tipos de cables (UTP, fibra, coaxial), conectores y distancias máximas (90 m en horizontal + 10 m en patch cords) para asegurar buen rendimiento. También establece los esquemas T568A/B y es clave en la certificación, donde la categoría del cable (como Cat5e, 6 o 6A) determina la velocidad y frecuencia soportadas, por ejemplo hasta 10 Gbps en Cat6A.
 
 ## 📂 Contenido 
 
