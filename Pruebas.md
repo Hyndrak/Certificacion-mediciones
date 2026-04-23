@@ -20,8 +20,8 @@ Ambos problemas corresponden a un ponchado defectuoso en el conector RJ45.
 
 
 
---- 
-
+<img src="https://raw.githubusercontent.com/TuAmigoPapilla/Imagenes/f94f84669410cf2efa1f6a0c3fd45318d2644029/Fotos%20de%20los%20puntos%20certificados%201.png" width="500">
+</div>
  
 
 ### 🟢 Punto 11 
